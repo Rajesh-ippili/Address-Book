@@ -1,6 +1,4 @@
 /*
-    Name: Ippili Rajesh
-    Duration: 02/08/2026 to 09/08/2026
     
     Description:
 
